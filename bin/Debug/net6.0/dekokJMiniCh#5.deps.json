@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dekokJMiniCh#5/1.0.0": {
+        "runtime": {
+          "dekokJMiniCh#5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dekokJMiniCh#5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
